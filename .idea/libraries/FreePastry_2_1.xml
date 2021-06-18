@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FreePastry-2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/FreePastry-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
